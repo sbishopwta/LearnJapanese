@@ -1,9 +1,9 @@
-#Learn Japanese Table of Contents
+# Learn Japanese Table of Contents
 <li>Common Greetings & Phrases
 <li>Dining
 </li>
 
-#Resources
+# Resources
 
 <li>[Memrise](https://itunes.apple.com/us/app/memrise.-learn-faster.-500+/id635966718?mt=8) (iOS App)
 <li>[Mindsnacks](https://itunes.apple.com/us/app/learn-japanese-by-mindsnacks/id633683543?mt=8) (iOS App)
